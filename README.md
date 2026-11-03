@@ -2,9 +2,9 @@
 
 **AI and Python trainer | Software developer**
 
-I lead Python training at DIPTI, work as an NSDA Assessor and build Django products. My classroom labs are public, so you can open them and judge the teaching directly.
+I have 6+ years of teaching and software experience, with 20K+ students trained. I lead Python training at DIPTI, work as an NSDA Assessor, am studying for an MSc in CSE at BUET and build Django products. My classroom labs are public, so you can open them and judge the teaching directly.
 
-[Portfolio](https://asad6426.github.io/AsadProfile/) · [LinkedIn](https://www.linkedin.com/in/asad1038/) · [Email](mailto:asad01708559476@gmail.com)
+[Portfolio](https://asad6426.github.io/AsadProfile/) · [LinkedIn](https://www.linkedin.com/in/asad1038/) · [Facebook](https://www.facebook.com/asaduzzaman.asad.1038) · [Email](mailto:asad01708559476@gmail.com)
 
 ## What I teach
 
