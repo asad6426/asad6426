@@ -28,6 +28,14 @@ I have 6+ years of teaching and software experience, with 20K+ students trained.
 | K-Means | [Open](https://asad6426.github.io/kmeans-lab/) | [Repo](https://github.com/asad6426/kmeans-lab) |
 | Agglomerative Clustering | [Open](https://asad6426.github.io/agglomerative-clustering-lab/) | [Repo](https://github.com/asad6426/agglomerative-clustering-lab) |
 
+## Deep learning, RAG and agents
+
+| Topic | Interactive lesson | Tested code |
+| --- | --- | --- |
+| PyTorch, CNNs and Transformers | [PyTorch lab](https://asad6426.github.io/pytorch-cnn-transformer-lab/) | [pytorch-deep-learning-lab](https://github.com/asad6426/pytorch-deep-learning-lab) |
+| RAG | [RAG lab](https://asad6426.github.io/rag-classroom-lab/) | [rag-course-assistant](https://github.com/asad6426/rag-course-assistant) |
+| MCP, LangGraph and multi-agent systems | [Agent lab](https://asad6426.github.io/mcp-langgraph-agent-lab/) | [enrollment-agent-mcp-langgraph](https://github.com/asad6426/enrollment-agent-mcp-langgraph) |
+
 ## Selected work
 
 - **[Data Science Project Studio](https://asad6426.github.io/data-science-project-studio/):** six client-style capstone briefs with downloadable datasets.
