@@ -36,6 +36,22 @@ I have 6+ years of teaching and software experience, with 20K+ students trained.
 | RAG | [RAG lab](https://asad6426.github.io/rag-classroom-lab/) | [rag-course-assistant](https://github.com/asad6426/rag-course-assistant) |
 | MCP, LangGraph and multi-agent systems | [Agent lab](https://asad6426.github.io/mcp-langgraph-agent-lab/) | [enrollment-agent-mcp-langgraph](https://github.com/asad6426/enrollment-agent-mcp-langgraph) |
 
+## Git & GitHub story labs (Bangla)
+
+Interactive Bangla study pages for a seven-class Git & GitHub course. Each class is told as a story and comes with an in-browser Git or GitHub Actions simulator and a quiz. Start with the [all-classes map](https://asad6426.github.io/git-golpo/), or look up any command in the [command book](https://asad6426.github.io/git-golpo/commands/).
+
+| Class | Topic | Live lab |
+| --- | --- | --- |
+| 1 | Git basics: VCS, init, commit, branch, push and pull | [Open](https://asad6426.github.io/git-golpo/class-1/) |
+| 2 | Branches, merge types, git log, first push | [Open](https://asad6426.github.io/git-golpo/class-2/) |
+| 3 | Undoing mistakes: diff, amend, reset, revert, stash, tags | [Open](https://asad6426.github.io/git-golpo/class-3/) |
+| 4 | Teamwork: merge strategies, fetch, HEAD, reflog | [Open](https://asad6426.github.io/git-golpo/class-4/) |
+| 5 | GitHub: rebase, SSH, issues and pull requests, GitFlow | [Open](https://asad6426.github.io/git-golpo/class-5/) |
+| 6 | GitHub Actions: events, jobs, env, secrets, artifacts | [Open](https://asad6426.github.io/git-golpo/class-6/) |
+| 7 | Hands-on CI/CD: matrix, cache, deploy to GitHub Pages | [Open](https://asad6426.github.io/git-golpo/class-7/) |
+
+Source: [git-golpo](https://github.com/asad6426/git-golpo)
+
 ## Selected work
 
 - **[Data Science Project Studio](https://asad6426.github.io/data-science-project-studio/):** six client-style capstone briefs with downloadable datasets.
